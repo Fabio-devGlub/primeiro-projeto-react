@@ -1,12 +1,122 @@
-# React + Vite
+# ⚛️ React Todolist Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação web desenvolvida com **React + Vite**, com foco em praticar **componentização, uso de props e manipulação de listas**.
 
-Currently, two official plugins are available:
+O projeto demonstra conceitos fundamentais do desenvolvimento **Front-End moderno**, utilizando componentes reutilizáveis e organização de código.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* ESLint
+
+---
+
+## ⚙️ Funcionalidades
+
+* 📋 Renderização de listas dinâmicas
+* 🧩 Componentes reutilizáveis
+* 🔗 Uso de **props** para personalizar componentes
+* 🎨 Estilização dinâmica dos itens da lista
+* ⚡ Ambiente de desenvolvimento rápido com **Vite**
+
+---
+
+## 📂 Estrutura do projeto
+
+```
+project-name
+│
+├── public
+│
+├── src
+│   ├── components
+│   ├── assets
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── styles.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+Clone o repositório
+
+```
+git clone https://github.com/seu-usuario/nome-do-projeto.git
+```
+
+Entre na pasta do projeto
+
+```
+cd nome-do-projeto
+```
+
+Instale as dependências
+
+```
+npm install
+```
+
+Execute o projeto
+
+```
+npm run dev
+```
+
+Abra no navegador
+
+```
+http://localhost:5173
+```
+
+---
+
+## 🌐 Deploy
+
+O projeto foi publicado utilizando **GitHub Pages**.
+
+🔗 Acesse o projeto online:
+(https://fabio-devglub.github.io/primeiro-projeto-react/)
+
+---
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto foram praticados:
+
+* Criação de **componentes em React**
+* Uso de **props**
+* Renderização de **listas**
+* Estruturação de projeto com **Vite**
+* Organização de código
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Fabio Aviz**
+
+🔗 LinkedIn
+https://www.linkedin.com/in/fabioaviz/
+
+💻 Portfólio
+()
+
+---
+
+⭐ Se gostou do projeto, deixe uma **estrela no repositório**!
+
